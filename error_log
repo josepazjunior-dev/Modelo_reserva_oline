@@ -1,0 +1,10 @@
+[28-Sep-2025 13:11:16 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bethainf_agendamento'@'localhost' (using password: YES) in /home/bethainf/agendamento.bethaapps.online/config.php:39
+Stack trace:
+#0 /home/bethainf/agendamento.bethaapps.online/horarios.php(13): conectarDB()
+#1 {main}
+  thrown in /home/bethainf/agendamento.bethaapps.online/config.php on line 39
+[28-Sep-2025 13:11:22 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'bethainf_agendamento'@'localhost' (using password: YES) in /home/bethainf/agendamento.bethaapps.online/config.php:39
+Stack trace:
+#0 /home/bethainf/agendamento.bethaapps.online/horarios.php(13): conectarDB()
+#1 {main}
+  thrown in /home/bethainf/agendamento.bethaapps.online/config.php on line 39

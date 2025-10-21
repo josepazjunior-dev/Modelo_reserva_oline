@@ -1,0 +1,23 @@
+{
+  "name": "Barbearia Vintage",
+  "short_name": "Barbearia",
+  "description": "Agende seu horário na Barbearia Vintage.",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
